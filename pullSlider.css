@@ -1,0 +1,17 @@
+.pull-slider{
+	position: absolute;
+	width: 100%;
+	background-color: #f00;
+}
+.slider-animation{
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+.slider-window-height{
+	overflow: scroll;
+}
+.selected{
+	background-color: #ccc;
+}
